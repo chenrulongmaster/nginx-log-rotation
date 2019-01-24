@@ -10,3 +10,6 @@ Nginx log file housekeep/rotation
 > :wq!
 ```
 
+Tips:
+Before using it, pls change `nginx_home`,  `nginx_log_path` and `keep_days` in this script according to your requirement/environment.
+
