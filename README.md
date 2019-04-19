@@ -15,5 +15,5 @@ Nginx log file housekeep/rotation
 ```
 
 Tips:
-Before using it, pls change `nginx_home`,  `nginx_log_path` and `keep_days` in this script according to your requirement/environment.
-
+1. Before using it, pls change `nginx_home`,  `nginx_log_path` and `keep_days` in this script according to your requirement/environment.
+2. Running on CentOS7.4
